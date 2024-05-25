@@ -3,6 +3,7 @@
 ## Made a discovery
 
 #############
+### Interface Discovery
 - once you made a class to implement an interface,
 by default all method in the implementing class
 becomes inaccessible to other class if not
