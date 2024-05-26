@@ -25,3 +25,11 @@ Consumer<T, U> are parameter types
 Supplier<T, U> are return type
 - Function interface is used to perform an action on an object and return a result.
 Function<T, U> are parameter and return type respectively.
+
+## Article idea.
+### The difference in syntax between java version 8 and java version 21.
+- The article will highlight the differences in syntax between java version 8 and java version 21.
+- It will also highlight the new features introduced in java version 21.
+- The article will also provide examples of how to use the new features.
+- The article will also provide a comparison of the performance of the two versions.
+- The article will also provide a conclusion on which version is better to use.
