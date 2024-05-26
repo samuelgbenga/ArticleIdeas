@@ -33,3 +33,14 @@ Function<T, U> are parameter and return type respectively.
 - The article will also provide examples of how to use the new features.
 - The article will also provide a comparison of the performance of the two versions.
 - The article will also provide a conclusion on which version is better to use.
+### more Ideas: use Explore into Java Optionals
+- The article will explore the concept of Optionals in Java.
+- It will explain the benefits of using Optionals.
+- It will provide examples of how to use Optionals.
+- It will also provide a comparison of the performance of using Optionals and not using Optionals.
+- The article will also provide a conclusion on why Optionals are important in Java.
+
+## Flatmap and Map
+- Flatmap is used to transform multiple streams of values into a new single stream of values, that can be mapped afterwards.
+- Map is used to transform a single stream of values into a new single stream of values.
+
