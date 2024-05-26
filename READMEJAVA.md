@@ -46,3 +46,8 @@ Function<T, U> are parameter and return type respectively.
 
 ## Steps to solve the quize app project
 ### folder structure
+- step1 : let consider the package structure.
+- step2 : consider the classes in every of the packages.
+- step3 : consider the different method in every of the classes.
+- step4 : learn to initialize spring boot project and set it up with prosgress
+- step5 : what the video again.
