@@ -44,3 +44,5 @@ Function<T, U> are parameter and return type respectively.
 - Flatmap is used to transform multiple streams of values into a new single stream of values, that can be mapped afterwards.
 - Map is used to transform a single stream of values into a new single stream of values.
 
+## Steps to solve the quize app project
+### folder structure
